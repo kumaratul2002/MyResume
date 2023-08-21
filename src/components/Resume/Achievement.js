@@ -25,7 +25,7 @@ const Achievements = () => {
                     Secured 14th Rank in Coding Contest by AlgoUniversity.
                   </h3>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/feed/update/urn:li:activity:7091141499400167424/"
                     class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline"
                   >
                     Link
